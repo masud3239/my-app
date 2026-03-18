@@ -25,7 +25,7 @@ function App() {
     </ul>
   </div>
 </div>
-          <h1 className="bg-amber-500 text-center">Get started</h1>
+          <h1 className="bg-blue-500 text-center text-white">Hello World!</h1>
 
           <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content text-center">
